@@ -16,13 +16,13 @@ What's Included
 
     a.  Setting up the environment on Mac or Windows PC.
     b.  Starting a book project and producing a PDF file for viewing and
-        printing on US letter (8.5″ x 11″) paper, a MOBI file for Kindle
-        and an EPUB 3 for viewing.
+        printing on US letter (8.5″ x 11″) paper, and an EPUB 3 for
+        viewing and submitting to Amazon.
     c.  Creating both the JPEG cover for an eBook and a PDF file for the
         front cover, back cover and spine of a paperback book.
     d.  Final post processing for paperback printing.
-    e.  Producing MOBI file (Amazon Kindle) and an EPUB 3 file for
-        viewing and submitting to book distributors.
+    e.  Producing an EPUB 3 file for viewing and submitting to book
+        distributors.
 
 3.  A LibreOffice Calc Worksheet to calculate the dimensions for a
     paperback cover. (DWS-Book-Calc.ods).
@@ -30,16 +30,15 @@ What's Included
 Files Included
 --------------
 
--   DWS-BookTempNovel in Kindle MOBI (4.3MB), PDF and ODT source (\~45
-    pages)
+-   DWS-BookTempNovel in EPUB 3, PDF and ODT source (\~45 pages)
 -   DWS-BookTempTech in PDF and ODT source (\~50 pages)
 -   DWS-BookTemp-Instructions in PDF (\~30 pages)
 -   Calc/DWS-BookCalc.ods a worksheet
 -   CoverArt/DWS-BookTemp.aphoto (8.8MB)
 
-There are PDF and Kindle MOBI versions of DWS-BookTempNovel included in
-this repository so that you can see how a sample Novel would be
-formatted as a paperback or on a Kindle.
+There are PDF and EPUB versions of DWS-BookTempNovel included in this
+repository so that you can see how a sample Novel would be formatted as
+a paperback or on a eBook.
 
 Getting Started
 ---------------
@@ -72,10 +71,11 @@ Running the tests
 If you follow the example in the instructions, you will have a sample
 8.5x11" paperback, a Kindle and EPUB3 eBook built using the template
 (**DWS-BookTempNovel.odt**) as a test showing each of the named style
-elements. **DWS-BookTemp_Epub3.epub **is what the EPUB will look like
-and **DWS-BookTemp_Kindle.mobi** is the Kindle version.
+elements. **DWS-BookTemp_Epub3.epub **is what the eBook will look like.
+You can view this in any EPUB reader, including Amazon's Kindle
+Previewer.
 
-You can follow the same instruction using the DWS-BookTEmpTech template
+You can follow the same instructions using the DWS-BookTempTech template
 and get an example from the light technical template.
 
 Versioning
