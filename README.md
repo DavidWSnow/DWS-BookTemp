@@ -17,7 +17,8 @@ What's Included
     a.  Setting up the environment on Mac or Windows PC.
     b.  Starting a book project and producing a PDF file for viewing and
         printing on US letter (8.5″ x 11″) paper, and an EPUB 3 for
-        viewing and submitting to Amazon.
+        viewing and submitting to Amazon. **Note:** Amazon now wants
+        EPUB files for submission!
     c.  Creating both the JPEG cover for an eBook and a PDF file for the
         front cover, back cover and spine of a paperback book.
     d.  Final post processing for paperback printing.
@@ -30,28 +31,33 @@ What's Included
 Files Included
 --------------
 
--   DWS-BookTempNovel in EPUB 3, PDF and ODT source (\~45 pages)
--   DWS-BookTempTech in PDF and ODT source (\~50 pages)
--   DWS-BookTemp-Instructions in PDF (\~30 pages)
--   Calc/DWS-BookCalc.ods a worksheet
--   CoverArt/DWS-BookTemp.aphoto (8.8MB)
+-   DWS-BookTempNovel in EPUB 3, PDF and ODT source (\~50 pages)
+-   DWS-BookTempTech in EPUB 3, PDF and ODT source (\~60 pages)
+-   DWS-BookTemp-Instructions in PDF (\~35 pages)
+-   Calc/DWS-BookCalc.ods (a worksheet)
 
-There are PDF and EPUB versions of DWS-BookTempNovel included in this
-repository so that you can see how a sample Novel would be formatted as
-a paperback or on a eBook.
+There are ODT, PDF and EPUB versions of DWS-BookTempNovel and
+DWS-BookTempTech included in this repository so that you can see how a
+sample book would be formatted as a paperback or an eBook.
 
 Getting Started
 ---------------
+
+****W****arning: ****When viewing PDF files at GitHub, hyperlinks and
+links in the Table of Contents ***may*** not be clickable! In the actual
+PDF files, when downloaded they are.
 
 The file **DWS-BookTemp-Instructions.pdf **contains the instructions
 for:
 
 -   Software Installation on macOS & Windows
 -   New Book Project Setup---The instructions to process the template
-    into a paperback, EPUB3 and Kindle MOBI files.
+    into a paperback, EPUB3 and Kindle MOBI files. Note: Most of these
+    have been moved to the template.
 -   Post Processing Steps---The final steps prior to producing an eBook
     or paperback.
 -   Creating both an eBook cover and a paperback book cover.
+-   Other useful stuff.
 
 Prerequisites
 -------------
@@ -69,14 +75,15 @@ Running the tests
 -----------------
 
 If you follow the example in the instructions, you will have a sample
-8.5x11" paperback, a Kindle and EPUB3 eBook built using the template
-(**DWS-BookTempNovel.odt**) as a test showing each of the named style
-elements. **DWS-BookTemp_Epub3.epub **is what the eBook will look like.
-You can view this in any EPUB reader, including Amazon's Kindle
+8.5x11ʺ paperback, an EPUB 3 eBook built using the template
+(**DWS-BookTempNovel.odt**) as a test. Each showing the named style
+elements. **DWS-BookTempNovel\_Epub3.epub **is what the novel will look
+like. You can view this in any EPUB reader, including Amazon's Kindle
 Previewer.
 
 You can follow the same instructions using the DWS-BookTempTech template
 and get an example from the light technical template.
+**DWS-BookTempTech\_Epub3.epub **is now included in the repository.
 
 Versioning
 ----------
@@ -98,11 +105,12 @@ David W. Snow
 License
 -------
 
-This project is licensed under the MIT License - see the **LICENSE.md
-**file for details.
+This project is licensed under **** a CC0 (****[****CC0 1.0
+Universal****](https://creativecommons.org/publicdomain/zero/1.0/)****)
+license. ****
 
 Notes:
 ------
 
-1.  ****README.md is created with pandoc via: **\
+1.  ****README.md is created with pandoc via:**\
     pandoc README.odt -o README.md**
