@@ -1,0 +1,4 @@
+Sources.txt  for DWS-BookTempTech a technical book template and DWS-BookTempNovel for novels.
+
+All images were taken by David W. Snow and are under a CC0 1.0 Universal license.
+All fonts that don't ship with LibreOffice are Google Fonts and are under SIL Open Font Licenses.
