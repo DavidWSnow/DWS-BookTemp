@@ -31,8 +31,8 @@ What's Included
 Files Included
 --------------
 
--   DWS-BookTempNovel in EPUB 3, PDF and ODT source (\~50 pages)
--   DWS-BookTempTech in EPUB 3, PDF and ODT source (\~60 pages)
+-   DWS-BookTempNovel in EPUB 3, PDF and ODT source (\~60 pages)
+-   DWS-BookTempTech in EPUB 3, PDF and ODT source (\~70 pages)
 -   DWS-BookTemp-Instructions in PDF (\~35 pages)
 -   Calc/DWS-BookCalc.ods (a worksheet)
 
@@ -107,7 +107,7 @@ License
 
 This project is licensed under **** a CC0 (****[****CC0 1.0
 Universal****](https://creativecommons.org/publicdomain/zero/1.0/)****)
-license. ****
+license.****
 
 Notes:
 ------
