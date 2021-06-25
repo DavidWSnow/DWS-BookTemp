@@ -111,12 +111,13 @@ license.****
 
 ## ***Edition*** History (Git tag)
 
-  --------- -------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Edition   Date           Major Changes & Additions
-  1.1.0     January 2021   The basic templates (Novel & Technical) plus instructions. The novel template won [Adfinis](https://adfinis.com/en/)' template contest. See thier [blog](https://adfinis.com/en/blog/winners-of-the-libreoffice-template-contest-2020/).
-  1.2.0     June 2021      Updated several sections and a report template (DWS-BookTempReport) added. Tested with LibreOffice Writer 7.1.4.2
-                           
-  --------- -------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-   1.1.0 January 2021 The basic templates (Novel & Technical) plus
+    instructions. The novel template won
+    [Adfinis](https://adfinis.com/en/)' template contest. See
+    [thier](https://adfinis.com/en/blog/winners-of-the-libreoffice-template-contest-2020/)
+    blog.
+-   1.2.1 June 2021 Updated several sections and a report template
+    (DWS-BookTempReport) added. Tested with LibreOffice Writer 7.1.4.2
 
 ## ** Notes:**
 
