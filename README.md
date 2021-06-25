@@ -5,7 +5,7 @@ a template that worked and demonstrated the styles used within the
 template, so I created two. In March 2021, the the first version of the
 novel template won a prize in a [template
 contest](https://adfinis.com/en/blog/winners-of-the-libreoffice-template-contest-2020/)
-and paid for half of my new 13" 2020 MacBook Air M1. Now I and a faster
+and paid for half of my new 13" 2020 MacBook Air M1. Now I can a faster
 writer than ever ;=}
 
 ## What's Included
