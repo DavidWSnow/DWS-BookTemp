@@ -9,7 +9,7 @@ and paid for half of my 13" 2020 MacBook Air M1. Now I can write 50%
 faster than before ;=}
 
 The Novel and Technical book templates are designed such that you can
-easily produce and eBook (EPUB 3) file for Amazon Kindle and a PDF file
+easily produce and eBook (EPUB3) file for Amazon Kindle and a PDF file
 for a paperback from a common source file.
 
 ## Author
@@ -33,8 +33,8 @@ Apple's Pages.****
 1.  LibreOffice Writer templates for both a novel and light technical
     books containing a style sheet and sample content for a book. Both
     templates work for print/paperback (PDF) and eBook (EPUB3) formats.
-    Note: Amazon Kindle now wants EPUB format files for eBooks, so these
-    template work for Amazon Kindle books.
+    Note: Amazon Kindle now wants EPUB formated files for eBooks, so
+    these templates work for Amazon Kindle books.
 
 2.  There is also a version of the technical template that is
     reformatted for printed technical reports.
@@ -43,12 +43,12 @@ Apple's Pages.****
 
     a.  Setting up the environment on Mac or Windows PC.
     b.  Starting a book project and producing a PDF file for viewing and
-        printing on 6″ x 9″ paper, and an EPUB 3 for viewing and
+        printing on 6″ x 9″ paper, and an EPUB3 for viewing and
         submitting to Amazon, Apple, etc.
     c.  Creating both the JPEG cover for an eBook and a PDF file for the
         front cover, back cover and spine of a paperback book.
     d.  Final post processing for paperback printing.
-    e.  Producing an EPUB 3 file for viewing and submitting to book
+    e.  Producing an EPUB3 file for viewing and submitting to book
         distributors.
 
 4.  A LibreOffice Calc Worksheet to calculate the dimensions for a
@@ -59,7 +59,9 @@ Apple's Pages.****
 -   Changed the format of the version/edition number.
 -   Make a separate *DWS-BookTempNovel *and *DWS-BookTempTech* that are
     much leaner and not just copies of the relevant sections of
-    *DWS-BookTempMaster.*
+    *DWS-BookTempMaster. *
+-   The novel was resized to 5"x8". The Tech and Master templates were
+    resized to 6"x9".
 -   Make an EPUB3 file for *DWS-BookTempMaster *and dropped the two
     other ebook files.
 
@@ -74,14 +76,14 @@ PDF files, when downloaded they are.
     and ODT source (\~40 8.5"x11" pages)
 2.  DWS-BookTempNovel in
     [PDF](https://github.com/DavidWSnow/DWS-BookTemp/blob/main/DWS-BookTempNovel.pdf)
-    and ODT source (\~40 8.5"x11" pages)
+    and ODT source (\~40 5"x8" pages)
 3.  DWS-BookTempTech in
     [PDF,](https://github.com/DavidWSnow/DWS-BookTemp/blob/main/DWS-BookTempTech.pdf)
-    and ODT source (\~40 8.5"x11" pages)
+    and ODT source (\~40 6"x9" pages)
 4.  DWS-BookTempReport in
     [PDF](https://github.com/DavidWSnow/DWS-BookTemp/blob/main/DWS-BookTempReport.pdf)
     and ODT source (\~6 8.5"x11" pages)
-5.  DWS-BookTempMaster in PDF, EPUB3 and ODT source (\~85 8.5"x11"pages)
+5.  DWS-BookTempMaster in PDF, EPUB3 and ODT source (\~130 6"x9"pages)
 6.  OutTakes.odt a holder for work that has been "cut" out of your book
     and that you might want to use later.
 7.  Calc/DWS-BookCalc.ods (a worksheet)
@@ -94,7 +96,7 @@ the instructions for:
 
 -   Software Installation on macOS & Windows.
 -   New Book Project Setup---The instructions to process the template
-    into a paperback, EPUB 3 and Kindle files.
+    into a paperback, EPUB3 and Kindle files.
 -   Post Processing Steps---The final steps prior to producing an eBook
     or paperback for production.
 -   Creating both an eBook cover and a paperback book cover.
@@ -103,7 +105,7 @@ the instructions for:
 ## Running tests
 
 If you follow the examples in the instructions, you will have a sample
-6x9ʺ paperback (PDF), an EPUB 3 eBook built using the templates as a
+6x9ʺ paperback (PDF), an EPUB3 eBook built using the templates as a
 test. Each showing the named style elements.
 **DWS-BookTempNovel\_Epub3.epub **is what the novel will look like. You
 can view this in any EPUB reader, including [Amazon's Kindle
@@ -137,7 +139,7 @@ the edition number is incremented.
     (DWS-BookTempReport) added. Tested with LibreOffice Writer 7.1.4.2
 -   v25.01.0 Jan 2025 Applied more *Chicago Manual of Style* / Turabian
     style elements to the report template. Tested with LibreOffice
-    Writer 24.2.2 and Jutoh v3.16.4. I also charged to the same format
+    Writer 24.8.4.2 and Jutoh v3.16.4. I also charged to the same format
     of version numbering as LibreOffice at this time. It includes an
     OutTakes.odt file in the package. This is the file that I store
     content that I have written, but haven't decided where to use.
