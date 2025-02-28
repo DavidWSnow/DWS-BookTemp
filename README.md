@@ -33,7 +33,7 @@ Apple's Pages.****
 1.  LibreOffice Writer templates for both a novel and light technical
     books containing a style sheet and sample content for a book. Both
     templates work for print/paperback (PDF) and eBook (EPUB3) formats.
-    Note: Amazon Kindle now wants EPUB formated files for eBooks, so
+    Note: Amazon Kindle now wants EPUB formatted files for eBooks, so
     these templates work for Amazon Kindle books.
 
 2.  There is also a version of the technical template that is
@@ -47,14 +47,14 @@ Apple's Pages.****
         submitting to Amazon, Apple, etc.
     c.  Creating both the JPEG cover for an eBook and a PDF file for the
         front cover, back cover and spine of a paperback book.
-    d.  Final post processing for paperback printing.
+    d.  Final post-processing for paperback printing.
     e.  Producing an EPUB3 file for viewing and submitting to book
         distributors.
 
 4.  A LibreOffice Calc Worksheet to calculate the dimensions for a
     paperback cover.
 
-## Changed in Version 25.01.0
+## Changed in Version 25.03.0
 
 -   Changed the format of the version/edition number.
 -   Make a separate *DWS-BookTempNovel *and *DWS-BookTempTech* that are
@@ -137,7 +137,7 @@ the edition number is incremented.
     blog.
 -   v1.2.1 June 2021 Updated several sections and a report template
     (DWS-BookTempReport) added. Tested with LibreOffice Writer 7.1.4.2
--   v25.01.0 Jan 2025 Applied more *Chicago Manual of Style* / Turabian
+-   v25.03.0 Jan 2025 Applied more *Chicago Manual of Style* / Turabian
     style elements to the report template. Tested with LibreOffice
     Writer 24.8.4.2 and Jutoh v3.16.4. I also charged to the same format
     of version numbering as LibreOffice at this time. It includes an
